@@ -1,0 +1,8 @@
+withdrawal amount exceeds available funds, transaction aborted <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+client account locked, transaction aborted <_io.TextIOWrapper name='<stderr>' mode='w' encoding='utf-8'>
+[0 1 2 1 1 0 0 0 0]
+[ 0.   1.   2.   2.  -1.5  0.   0.   0.   0. ]
+[False False False False False False False False False]
+client,available,held,total,locked
+1,1.5,0.0,1.5,False
+2,0.0,0.0,0.0,True
